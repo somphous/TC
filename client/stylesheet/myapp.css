@@ -1,0 +1,11 @@
+.breadcrumb{
+    background: none;
+    float: right;
+    font-size: 14px;
+}
+/* Add asterisk (*) after the label for required fields
+------------------------------*/
+[data-required] label:after {
+    content: '*';
+    color: red;
+}
