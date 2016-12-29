@@ -1,0 +1,1 @@
+Collection.Score.cacheDoc('student',Collection.Student,['khmerName']);
